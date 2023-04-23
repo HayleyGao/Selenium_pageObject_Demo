@@ -6,7 +6,8 @@
 # pip install -r requirements.txt
 
 
-# todo: ddt 数据驱动
+# todo:ddt 数据驱动
 # todo:配置文件问题的解决
+# todo:日志
 
 
