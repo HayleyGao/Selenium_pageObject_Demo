@@ -1,0 +1,5 @@
+[2023-04-23 18:41:59,301] a_test.py-><module> line:4 [INFO]I am a_test.py
+[2023-04-23 18:42:04,781] b_test.py-><module> line:4 [INFO]I am b_test.py
+[2023-04-23 19:56:06,549] getData.py-><module> line:7 [INFO]get login_data.
+[2023-04-23 19:58:12,731] getData.py-><module> line:7 [INFO]get login_data.
+[2023-04-23 20:08:08,560] getData.py-><module> line:7 [INFO]get login_data.
