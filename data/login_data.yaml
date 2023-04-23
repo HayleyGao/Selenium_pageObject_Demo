@@ -1,0 +1,7 @@
+- account: xiaoming
+  pwd: 123abc
+- account: xiaoming2
+  pwd: 123abc2
+
+# [{':account': 'xiaoming', 'pwd': '123abc'}, {'account': 'xiaoming2', 'pwd': '123abc2'}]
+

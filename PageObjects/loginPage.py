@@ -1,6 +1,5 @@
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-from common.BasePage import BasePage
+from PageObjects.BasePage import BasePage
 
 
 # PageObject 设计模式原理:将页面的元素定位和元素行为封装成一个page类。一个页面对应一个类。

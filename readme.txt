@@ -1,3 +1,6 @@
+# 框架结构：
+# python+unittest+ddt+HTMLTestRunner+POM
+
 
 # 导出所需要按照的第三方库
 # pip3 freeze >requirements.txt
@@ -6,8 +9,8 @@
 # pip install -r requirements.txt
 
 
-# todo:ddt 数据驱动
-# todo:配置文件问题的解决
-# todo:日志
-
+# 数据驱动:ddt
+# 配置文件:yaml格式
+# 日志：logging
+# POM
 

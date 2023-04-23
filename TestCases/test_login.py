@@ -1,5 +1,5 @@
 import unittest
-from PageObjects.login import LoginPage
+from PageObjects.loginPage import LoginPage
 
 
 class TestLogin(unittest.TestCase):

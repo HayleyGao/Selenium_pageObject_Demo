@@ -1,0 +1,11 @@
+demo:
+  - one: 1
+  - two: 2
+  - three: 3
+db:           # db相关
+  host: 127.0.0.1
+  user: root
+  pwd: 12345678
+  db: test_db
+
+
